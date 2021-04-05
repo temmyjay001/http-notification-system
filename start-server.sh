@@ -1,0 +1,1 @@
+node ./publisher-server/app.js
